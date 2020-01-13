@@ -2,7 +2,7 @@
     <mj-head>
         <mj-title></mj-title>
         <mj-attributes>
-            
+          <mj-all padding="0"/>
         </mj-attributes>
     </mj-head>
     <mj-body>
@@ -14,5 +14,35 @@
                      width="" />
             </mj-column>
         </mj-section>
+
+   <mj-hero
+      mode="fixed-height"
+      height="310px"
+      background-width="600px"
+      background-height="320px"
+      background-url="img/img2.jpg"
+      background-color="#fff"
+      padding="55px 0px">
+          <mj-text align="center" font-size="38px" color="#fff">
+        Nautic 2019 : </br>
+Suzuki fidèle au rendez-vous
+        </mj-text>
+    </mj-hero>
+
+<mj-section background-url="img/img3.jpg" padding='0px 30px'>
+<mj-column>
+<mj-text line-height="17px" font-size="17px" align="center" color="#053249">
+Comme chaque année, Suzuki sera présent au Salon Nautique de Paris, du 7 au 15 décembre à la Porte de Versailles. Sur le stand de la Marque, dans le hall 2.2, seront notamment mis en avant le nouveau moteur haut-de-gamme DF300B ainsi que les derniers accessoires lancés par Suzuki : l’accélérateur électronique et l’écran multifonctions.
+
+</mj-text>
+<mj-text line-height="17px" font-size="17px" align="center" color="#053249" padding="20px 0px">
+
+
+Le Nautic sera également l’occasion de conclure en beauté une année réussie. 
+Guillaume Vuillardot, Directeur de l’activité Marine de Suzuki France précise : « Nous enregistrons de très bons résultats. Notre part de marché a atteint 24,3% au premier semestre, en progression d’un point par rapport aux 12 mois précédents. Sur l’ensemble de 2019 nous livrerons plus de 4500 moteurs. » 
+</mj-text>
+</mj-column>
+</mj-section>
+
     </mj-body>
 </mjml>
