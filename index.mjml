@@ -1,48 +1,78 @@
 <mjml>
-    <mj-head>
-        <mj-title></mj-title>
-        <mj-attributes>
-          <mj-all padding="0"/>
-        </mj-attributes>
-    </mj-head>
-    <mj-body>
-        <mj-section>
-            <mj-column>
-                <mj-image
-                     src="img/img1.jpg"
-                     alt=""
-                     width="" />
-            </mj-column>
-        </mj-section>
+  <mj-head>
+    <mj-title></mj-title>
+    <mj-attributes>
+      <mj-all padding="0" font-family="helvetica" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body>
+    <mj-section>
+      <mj-column>
+        <mj-image src="img/img1.jpg" alt="" width="" />
+      </mj-column>
+    </mj-section>
 
-   <mj-hero
-      mode="fixed-height"
-      height="310px"
-      background-width="600px"
-      background-height="320px"
-      background-url="img/img2.jpg"
-      background-color="#fff"
-      padding="55px 0px">
-          <mj-text align="center" font-size="38px" color="#fff">
+    <mj-hero mode="fixed-height" height="310px" background-width="600px" background-height="320px" background-url="img/img2.jpg" background-color="#fff" padding="55px 0px">
+      <mj-text align="center" font-size="38px" color="#fff">
         Nautic 2019 : </br>
-Suzuki fidèle au rendez-vous
-        </mj-text>
+        Suzuki fidèle au rendez-vous
+      </mj-text>
     </mj-hero>
 
-<mj-section background-url="img/img3.jpg" padding='0px 30px'>
-<mj-column>
-<mj-text line-height="17px" font-size="17px" align="center" color="#053249">
-Comme chaque année, Suzuki sera présent au Salon Nautique de Paris, du 7 au 15 décembre à la Porte de Versailles. Sur le stand de la Marque, dans le hall 2.2, seront notamment mis en avant le nouveau moteur haut-de-gamme DF300B ainsi que les derniers accessoires lancés par Suzuki : l’accélérateur électronique et l’écran multifonctions.
+    <mj-section background-url="img/img3.jpg" padding='0px 30px'>
+      <mj-column>
+        <mj-text line-height="17px" font-size="17px" align="center" color="#053249">
+          Comme chaque année, Suzuki sera présent au Salon Nautique de Paris, du 7 au 15 décembre à la Porte de Versailles. Sur le stand de la Marque, dans le hall 2.2, seront notamment mis en avant le nouveau moteur haut-de-gamme DF300B ainsi que les derniers accessoires lancés par Suzuki : l’accélérateur électronique et l’écran multifonctions.
 
-</mj-text>
-<mj-text line-height="17px" font-size="17px" align="center" color="#053249" padding="20px 0px">
+        </mj-text>
+        <mj-text line-height="17px" font-size="17px" align="center" color="#053249" padding="20px 0px">
 
 
-Le Nautic sera également l’occasion de conclure en beauté une année réussie. 
-Guillaume Vuillardot, Directeur de l’activité Marine de Suzuki France précise : « Nous enregistrons de très bons résultats. Notre part de marché a atteint 24,3% au premier semestre, en progression d’un point par rapport aux 12 mois précédents. Sur l’ensemble de 2019 nous livrerons plus de 4500 moteurs. » 
-</mj-text>
-</mj-column>
-</mj-section>
+          Le Nautic sera également l’occasion de conclure en beauté une année réussie.
+          Guillaume Vuillardot, Directeur de l’activité Marine de Suzuki France précise : « Nous enregistrons de très bons résultats. Notre part de marché a atteint 24,3% au premier semestre, en progression d’un point par rapport aux 12 mois précédents. Sur l’ensemble de 2019 nous livrerons plus de 4500 moteurs. »
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
-    </mj-body>
+    <mj-section padding="12px" background-color="#fff">
+      <mj-column padding="0px 10px 0px 0px">
+        <mj-text font-size="12px" line-height="18px" align="center" color="#ffffff" padding="5px" font-weight="bold" container-background-color="#e30713">
+          Suzuki Marine France championne d’Europe
+        </mj-text>
+        <mj-image src="img/img4.jpg" alt="" width="" />
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="16px 0px">
+          Cette année, pour la première fois, Suzuki Marine Europe était présent au Metstrade, le plus grand salon nautique professionnel de la planète qui se tient chaque automne à Amsterdam. L’opportunité pour la Marque de présenter ses produits et de tisser de nouveaux partenariats avec des constructeurs de bateaux du monde entier.
+        </mj-text>
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="8px 0px">
+          En parallèle de ce rendez-vous, Suzuki Marine a organisé une grande convention réunissant toutes ses filiales européennes. La France a été particulièrement mise à l’honneur : Yasuharu Osawa, Directeur de l’activité Marine pour le Monde, a remis à Suzuki France l’« Excellence in Sales Award 2019 ».
+        </mj-text>
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="8px 0px">
+          Cette prestigieuse distinction récompense la filiale européenne ayant connu la plus forte progression de ses ventes et de sa part de marché. Bravo à notre réseau et à toutes les équipes pour cette magnifique performance !
+        </mj-text>
+      </mj-column>
+      <mj-column padding="0px 0px 0px 10px">
+        <mj-text font-size="12px" line-height="18px" color="#ffffff" align="center" padding="5px" font-weight="bold" container-background-color="#e30713">
+          Les accessoires Suzuki en « live » sur internet
+        </mj-text>
+        <mj-image src="img/img5.png" alt="" width="" />
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="16px 0px">
+         Quel est le point commun entre un antivol pour moteur hors-bord, une hélice en aluminium, et un écran multifonction de dernière génération ? Ces produits Suzuki Marine sont présentés sur le nouveau site internet
+  https://accessoires.suzuki.fr.
+        </mj-text>
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="8px 0px">
+          Ce « show-room digital » permet aux clients de la marque comme aux vendeurs du réseau de trouver rapidement un produit, avec ses caractéristiques et son prix actualisés en temps réel. Le particulier ne peut pas commander en ligne, le but étant de l’emmener jusqu’au concessionnaire le plus proche, dont l’adresse lui est indiquée automatiquement par géolocalisation.
+        </mj-text>
+        <mj-text font-size="15px" color="#013145" line-height="15px" align="justify" padding="8px 0px">
+        A noter que ce site internet présente également les accessoires auto, moto ainsi que les vêtements et autres objets aux couleurs de la marque. Cadeau : pour Noël, une réduction de 10% est proposée sur toute la gamme Corporate !
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
 </mjml>
+
+
+
+
+
+
+
